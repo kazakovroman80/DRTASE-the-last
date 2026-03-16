@@ -1,0 +1,6 @@
+mutation,chain_A_residue,chain_B_residue,description
+Y69F,69,269,Symmetric Tyr->Phe mutation at the dimer interface region.
+N70Q,70,270,Symmetric Asn->Gln mutation; preserves amide chemistry with longer side chain.
+N71Q,71,271,Symmetric Asn->Gln mutation near position 70 with conservative polarity.
+Y86F,86,286,Symmetric Tyr->Phe mutation removing hydroxyl while retaining aromatic ring.
+Y101F,101,301,Symmetric Tyr->Phe mutation at position 101 in both protomers.
